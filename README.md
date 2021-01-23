@@ -1,4 +1,4 @@
-# How_to_simulate_a_self_driving_car
+# Simulate_a_self_driving_car
 This is the code for "How to Simulate a Self-Driving Car"
 
 # This video 
